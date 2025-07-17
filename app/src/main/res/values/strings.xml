@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Klaro</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">993860240189-d0va660ga0mokh4qrc9d2g7jjehtlevv.apps.googleusercontent.com</string>
+</resources>

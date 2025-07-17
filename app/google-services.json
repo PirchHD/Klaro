@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993860240189",
+    "project_id": "klaro-89a0e",
+    "storage_bucket": "klaro-89a0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993860240189:android:87ed56fc2aeb0263f5bb54",
+        "android_client_info": {
+          "package_name": "com.example.klaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993860240189-d0va660ga0mokh4qrc9d2g7jjehtlevv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKVOcysVuRmg6Yo6kvMhICaB8DaK_27c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993860240189-d0va660ga0mokh4qrc9d2g7jjehtlevv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
